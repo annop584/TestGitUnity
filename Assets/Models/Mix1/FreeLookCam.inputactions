@@ -1,0 +1,33 @@
+{
+    "name": "FreeLookCam",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "b5c602de-410f-4952-b262-41513b9b127a",
+            "actions": [
+                {
+                    "name": "MouseLook",
+                    "type": "PassThrough",
+                    "id": "4a25471d-81a9-4c54-b5b5-68427ba577a2",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c6280013-c068-4d90-bbe5-364bad345066",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseLook",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
